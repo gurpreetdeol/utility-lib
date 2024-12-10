@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='UtilityLib',
+    name='utilitylib',
     version='0.1.1',
     description='A utility library for data science preprocessing',
     author='Gurpreet Deol',
